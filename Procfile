@@ -1,0 +1,1 @@
+web: gunicorn moonstories.wsgi --log-file -
